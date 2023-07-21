@@ -1,0 +1,14 @@
+network:
+  ethernets:
+    eno1:
+      addresses:
+        - 10.0.3.1/24
+  wifis:
+    wlp2s0:
+      dhcp4: yes
+      dhcp6: yes
+      access-points:
+        TheMink:
+          password: Ram1991Sam
+  version: 2
+  renderer: NetworkManager
