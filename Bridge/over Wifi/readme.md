@@ -1,3 +1,6 @@
+# From:
+https://fabianlee.org/2022/09/20/kvm-creating-a-bridged-network-with-netplan-on-ubuntu-22-04/
+
 # Test
 Works on:
 - Ubuntu 23.04!
