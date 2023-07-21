@@ -1,3 +1,4 @@
+# From: https://fabianlee.org/2022/09/20/kvm-creating-a-bridged-network-with-netplan-on-ubuntu-22-04/
 network:
   version: 2
   renderer: networkd
